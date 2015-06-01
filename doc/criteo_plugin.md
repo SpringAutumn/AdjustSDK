@@ -2,7 +2,7 @@
 
 Integrate adjust with Criteo events by following these steps:
 
-1. Locate the `plugin` folder inside the downloaded archive from our [releases page](https://github.com/adjust/ios_sdk/releases).
+1. Locate the `plugin/Criteo` folder inside the downloaded archive from our [releases page](https://github.com/adjust/ios_sdk/releases).
 
 2. Drag the `ADJCriteo.h` and `ADJCriteo.m` files into the `Adjust` folder inside your project.
 
